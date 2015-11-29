@@ -5,6 +5,7 @@ Python code for the answers of LeetCode.
 - Contains Duplicate
 - String to Integer (atoi)
 - Contains Duplicate II
+- Factorial Trailing Zeroes
 
 #### Medium
 - Majority Element II
