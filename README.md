@@ -6,11 +6,13 @@ Python code for the answers of LeetCode.
 - String to Integer (atoi)
 - Contains Duplicate II
 - Factorial Trailing Zeroes
+- Tenth Line
 
 #### Medium
 - Majority Element II
 - Add Two Numbers
 - Remove Duplicates from Sorted List II
+- Two Sum
 
 #### Hard
 - Trapping Rain Water
