@@ -7,6 +7,7 @@ Python code for the answers of LeetCode.
 - Contains Duplicate II
 - Factorial Trailing Zeroes
 - Tenth Line
+- Reverse Linked List
 
 #### Medium
 - Majority Element II
