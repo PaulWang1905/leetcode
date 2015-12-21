@@ -8,12 +8,15 @@ Python code for the answers of LeetCode.
 - Factorial Trailing Zeroes
 - Tenth Line
 - Reverse Linked List
+- Intersection of Two Linked Lists
 
 #### Medium
 - Majority Element II
 - Add Two Numbers
 - Remove Duplicates from Sorted List II
 - Two Sum
+- Spiral Matrix II
+- Contains Duplicate III
 
 #### Hard
 - Trapping Rain Water
