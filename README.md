@@ -21,3 +21,4 @@ Python code for the answers of LeetCode.
 #### Hard
 - Trapping Rain Water
 - Interleaving String
+- First Missing Positive
