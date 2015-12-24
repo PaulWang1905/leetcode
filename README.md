@@ -17,6 +17,7 @@ Python code for the answers of LeetCode.
 - Two Sum
 - Spiral Matrix II
 - Contains Duplicate III
+- Maximum Product of Word Lengths
 
 #### Hard
 - Trapping Rain Water
