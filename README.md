@@ -19,6 +19,7 @@ Python code for the answers of LeetCode.
 - Contains Duplicate III
 - Maximum Product of Word Lengths
 - Additive Number
+- Minimum Height Trees
 
 #### Hard
 - Trapping Rain Water
