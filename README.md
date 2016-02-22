@@ -20,6 +20,7 @@ Python code for the answers of LeetCode.
 - Maximum Product of Word Lengths
 - Additive Number
 - Minimum Height Trees
+- Subsets
 
 #### Hard
 - Trapping Rain Water
