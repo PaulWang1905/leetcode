@@ -21,6 +21,7 @@ Python code for the answers of LeetCode.
 - Additive Number
 - Minimum Height Trees
 - Subsets
+- Decode Ways
 
 #### Hard
 - Trapping Rain Water
