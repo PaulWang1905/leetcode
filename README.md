@@ -22,6 +22,7 @@ Python code for the answers of LeetCode.
 - Minimum Height Trees
 - Subsets
 - Decode Ways
+- Different Ways to Add Parentheses
 
 #### Hard
 - Trapping Rain Water
