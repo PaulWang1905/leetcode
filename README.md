@@ -9,6 +9,7 @@ Python code for the answers of LeetCode.
 - Tenth Line
 - Reverse Linked List
 - Intersection of Two Linked Lists
+- Excel Sheet Column Number
 
 #### Medium
 - Majority Element II
