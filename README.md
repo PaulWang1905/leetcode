@@ -10,6 +10,7 @@ Python code for the answers of LeetCode.
 - Reverse Linked List
 - Intersection of Two Linked Lists
 - Excel Sheet Column Number
+- Maximum Depth of Binary Tree
 
 #### Medium
 - Majority Element II
