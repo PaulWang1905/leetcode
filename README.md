@@ -11,6 +11,7 @@ Python code for the answers of LeetCode.
 - Intersection of Two Linked Lists
 - Excel Sheet Column Number
 - Maximum Depth of Binary Tree
+- Longest Common Prefix
 
 #### Medium
 - Majority Element II
@@ -25,6 +26,7 @@ Python code for the answers of LeetCode.
 - Subsets
 - Decode Ways
 - Different Ways to Add Parentheses
+- Group Anagrams
 
 #### Hard
 - Trapping Rain Water
