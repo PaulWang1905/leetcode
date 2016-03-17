@@ -27,8 +27,10 @@ Python code for the answers of LeetCode.
 - Decode Ways
 - Different Ways to Add Parentheses
 - Group Anagrams
+- Best Time to Buy and Sell Stock II
 
 #### Hard
 - Trapping Rain Water
 - Interleaving String
 - First Missing Positive
+- Palindrome Pairs
