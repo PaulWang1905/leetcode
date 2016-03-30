@@ -28,9 +28,11 @@ Python code for the answers of LeetCode.
 - Different Ways to Add Parentheses
 - Group Anagrams
 - Best Time to Buy and Sell Stock II
+- Divide Two Integers
 
 #### Hard
 - Trapping Rain Water
 - Interleaving String
 - First Missing Positive
 - Palindrome Pairs
+- Reverse Nodes in k-Group
