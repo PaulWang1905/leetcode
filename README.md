@@ -12,6 +12,8 @@ Python code for the answers of LeetCode.
 - Excel Sheet Column Number
 - Maximum Depth of Binary Tree
 - Longest Common Prefix
+- Add Digits
+- Excel Sheet Column Title
 
 #### Medium
 - Majority Element II
