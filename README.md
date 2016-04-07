@@ -14,6 +14,8 @@ Python code for the answers of LeetCode.
 - Longest Common Prefix
 - Add Digits
 - Excel Sheet Column Title
+- First Bad Version
+- Happy Number
 
 #### Medium
 - Majority Element II
