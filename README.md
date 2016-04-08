@@ -41,3 +41,4 @@ Python code for the answers of LeetCode.
 - First Missing Positive
 - Palindrome Pairs
 - Reverse Nodes in k-Group
+- Find the Duplicate Number
