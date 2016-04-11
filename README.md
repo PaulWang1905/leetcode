@@ -16,6 +16,7 @@ Python code for the answers of LeetCode.
 - Excel Sheet Column Title
 - First Bad Version
 - Happy Number
+- Merge Two Sorted Lists
 
 #### Medium
 - Majority Element II
@@ -34,6 +35,8 @@ Python code for the answers of LeetCode.
 - Best Time to Buy and Sell Stock II
 - Divide Two Integers
 - Remove Duplicates from Sorted Array II
+- Increasing Triplet Subsequence
+- Gray Code
 
 #### Hard
 - Trapping Rain Water
