@@ -17,6 +17,7 @@ Python code for the answers of LeetCode.
 - First Bad Version
 - Happy Number
 - Merge Two Sorted Lists
+- ZigZag Conversion
 
 #### Medium
 - Majority Element II
@@ -47,3 +48,4 @@ Python code for the answers of LeetCode.
 - Reverse Nodes in k-Group
 - Find the Duplicate Number
 - Longest Consecutive Sequence
+- Find Minimum in Rotated Sorted Array II
