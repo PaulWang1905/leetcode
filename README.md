@@ -37,6 +37,7 @@ Python code for the answers of LeetCode.
 - Remove Duplicates from Sorted Array II
 - Increasing Triplet Subsequence
 - Gray Code
+- Gas Station
 
 #### Hard
 - Trapping Rain Water
@@ -45,3 +46,4 @@ Python code for the answers of LeetCode.
 - Palindrome Pairs
 - Reverse Nodes in k-Group
 - Find the Duplicate Number
+- Longest Consecutive Sequence
