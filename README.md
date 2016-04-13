@@ -18,6 +18,7 @@ Python code for the answers of LeetCode.
 - Happy Number
 - Merge Two Sorted Lists
 - ZigZag Conversion
+- Min Stack
 
 #### Medium
 - Majority Element II
