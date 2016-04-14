@@ -40,6 +40,8 @@ Python code for the answers of LeetCode.
 - Increasing Triplet Subsequence
 - Gray Code
 - Gas Station
+- Flatten Binary Tree to Linked List
+- Combination Sum
 
 #### Hard
 - Trapping Rain Water
