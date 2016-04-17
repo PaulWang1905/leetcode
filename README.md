@@ -19,6 +19,7 @@ Python code for the answers of LeetCode.
 - Merge Two Sorted Lists
 - ZigZag Conversion
 - Min Stack
+- Power of Two
 
 #### Medium
 - Majority Element II
