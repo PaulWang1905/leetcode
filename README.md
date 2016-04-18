@@ -43,6 +43,8 @@ Python code for the answers of LeetCode.
 - Gas Station
 - Flatten Binary Tree to Linked List
 - Combination Sum
+- Unique Binary Search Trees
+- Reverse Words in a String
 
 #### Hard
 - Trapping Rain Water
