@@ -45,6 +45,7 @@ Python code for the answers of LeetCode.
 - Combination Sum
 - Unique Binary Search Trees
 - Reverse Words in a String
+- Generate Parentheses
 
 #### Hard
 - Trapping Rain Water
