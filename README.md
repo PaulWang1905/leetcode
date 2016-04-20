@@ -20,6 +20,7 @@ Python code for the answers of LeetCode.
 - ZigZag Conversion
 - Min Stack
 - Power of Two
+- Merge Sorted Array
 
 #### Medium
 - Majority Element II
@@ -56,3 +57,4 @@ Python code for the answers of LeetCode.
 - Find the Duplicate Number
 - Longest Consecutive Sequence
 - Find Minimum in Rotated Sorted Array II
+- Count of Smaller Numbers After Self
