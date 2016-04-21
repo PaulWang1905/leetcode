@@ -21,6 +21,7 @@ Python code for the answers of LeetCode.
 - Min Stack
 - Power of Two
 - Merge Sorted Array
+- Delete Node in a Linked List
 
 #### Medium
 - Majority Element II
@@ -47,6 +48,7 @@ Python code for the answers of LeetCode.
 - Unique Binary Search Trees
 - Reverse Words in a String
 - Generate Parentheses
+- Linked List Cycle II
 
 #### Hard
 - Trapping Rain Water
