@@ -22,6 +22,8 @@ Python code for the answers of LeetCode.
 - Power of Two
 - Merge Sorted Array
 - Delete Node in a Linked List
+- Add Binary
+- Length of Last Word
 
 #### Medium
 - Majority Element II
@@ -49,6 +51,7 @@ Python code for the answers of LeetCode.
 - Reverse Words in a String
 - Generate Parentheses
 - Linked List Cycle II
+- Missing Number
 
 #### Hard
 - Trapping Rain Water
