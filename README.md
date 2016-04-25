@@ -53,6 +53,7 @@ Python code for the answers of LeetCode.
 - Generate Parentheses
 - Linked List Cycle II
 - Missing Number
+- Maximum Product Subarray
 
 #### Hard
 - Trapping Rain Water
