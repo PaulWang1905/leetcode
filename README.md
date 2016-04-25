@@ -24,6 +24,7 @@ Python code for the answers of LeetCode.
 - Delete Node in a Linked List
 - Add Binary
 - Length of Last Word
+- Valid Phone Numbers
 
 #### Medium
 - Majority Element II
