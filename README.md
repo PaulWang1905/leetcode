@@ -54,6 +54,8 @@ Python code for the answers of LeetCode.
 - Linked List Cycle II
 - Missing Number
 - Maximum Product Subarray
+- Search Insert Position
+- Patching Array
 
 #### Hard
 - Trapping Rain Water
