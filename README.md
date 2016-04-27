@@ -25,6 +25,7 @@ Python code for the answers of LeetCode.
 - Add Binary
 - Length of Last Word
 - Valid Phone Numbers
+- Remove Duplicates from Sorted Array
 
 #### Medium
 - Majority Element II
