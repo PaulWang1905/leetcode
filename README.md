@@ -57,6 +57,10 @@ Python code for the answers of LeetCode.
 - Maximum Product Subarray
 - Search Insert Position
 - Patching Array
+- Department Highest Salary
+- Partition List
+- Pow(x, n)
+- Permutations
 
 #### Hard
 - Trapping Rain Water
@@ -68,3 +72,4 @@ Python code for the answers of LeetCode.
 - Longest Consecutive Sequence
 - Find Minimum in Rotated Sorted Array II
 - Count of Smaller Numbers After Self
+- Median of Two Sorted Arrays
