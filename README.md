@@ -61,6 +61,7 @@ Python code for the answers of LeetCode.
 - Partition List
 - Pow(x, n)
 - Permutations
+- Sort Colors
 
 #### Hard
 - Trapping Rain Water
