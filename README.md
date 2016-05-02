@@ -62,6 +62,7 @@ Python code for the answers of LeetCode.
 - Pow(x, n)
 - Permutations
 - Sort Colors
+- Coin Change
 
 #### Hard
 - Trapping Rain Water
