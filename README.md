@@ -26,6 +26,7 @@ Python code for the answers of LeetCode.
 - Length of Last Word
 - Valid Phone Numbers
 - Remove Duplicates from Sorted Array
+- Reverse String
 
 #### Medium
 - Majority Element II
