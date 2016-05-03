@@ -65,6 +65,7 @@ Python code for the answers of LeetCode.
 - Permutations
 - Sort Colors
 - Coin Change
+- Search in Rotated Sorted Array II
 
 #### Hard
 - Trapping Rain Water
