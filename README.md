@@ -27,6 +27,7 @@ Python code for the answers of LeetCode.
 - Valid Phone Numbers
 - Remove Duplicates from Sorted Array
 - Reverse String
+- Remove Linked List Elements
 
 #### Medium
 - Majority Element II
