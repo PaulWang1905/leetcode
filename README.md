@@ -28,6 +28,7 @@ Python code for the answers of LeetCode.
 - Remove Duplicates from Sorted Array
 - Reverse String
 - Remove Linked List Elements
+- Majority Element
 
 #### Medium
 - Majority Element II
@@ -66,6 +67,7 @@ Python code for the answers of LeetCode.
 - Sort Colors
 - Coin Change
 - Search in Rotated Sorted Array II
+- Search for a Range
 
 #### Hard
 - Trapping Rain Water
