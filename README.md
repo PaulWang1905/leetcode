@@ -29,6 +29,7 @@ Python code for the answers of LeetCode.
 - Reverse String
 - Remove Linked List Elements
 - Majority Element
+- Combine Two Tables
 
 #### Medium
 - Majority Element II
