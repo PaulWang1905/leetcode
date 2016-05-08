@@ -30,6 +30,7 @@ Python code for the answers of LeetCode.
 - Remove Linked List Elements
 - Majority Element
 - Combine Two Tables
+- Customers Who Never Order
 
 #### Medium
 - Majority Element II
