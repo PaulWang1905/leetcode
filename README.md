@@ -31,6 +31,7 @@ Python code for the answers of LeetCode.
 - Majority Element
 - Combine Two Tables
 - Customers Who Never Order
+- Power of Four
 
 #### Medium
 - Majority Element II
