@@ -32,6 +32,7 @@ Python code for the answers of LeetCode.
 - Combine Two Tables
 - Customers Who Never Order
 - Power of Four
+- Minimum Depth of Binary Tree
 
 #### Medium
 - Majority Element II
@@ -71,6 +72,7 @@ Python code for the answers of LeetCode.
 - Coin Change
 - Search in Rotated Sorted Array II
 - Search for a Range
+- Maximal Square
 
 #### Hard
 - Trapping Rain Water
