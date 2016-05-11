@@ -73,6 +73,7 @@ Python code for the answers of LeetCode.
 - Search in Rotated Sorted Array II
 - Search for a Range
 - Maximal Square
+- Longest Substring Without Repeating Characters
 
 #### Hard
 - Trapping Rain Water
