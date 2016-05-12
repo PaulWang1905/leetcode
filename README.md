@@ -74,6 +74,7 @@ Python code for the answers of LeetCode.
 - Search for a Range
 - Maximal Square
 - Longest Substring Without Repeating Characters
+- Ugly Number II
 
 #### Hard
 - Trapping Rain Water
