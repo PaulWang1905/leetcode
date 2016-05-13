@@ -33,6 +33,7 @@ Python code for the answers of LeetCode.
 - Customers Who Never Order
 - Power of Four
 - Minimum Depth of Binary Tree
+- Delete Duplicate Emails
 
 #### Medium
 - Majority Element II
@@ -75,6 +76,7 @@ Python code for the answers of LeetCode.
 - Maximal Square
 - Longest Substring Without Repeating Characters
 - Ugly Number II
+- Summary Ranges
 
 #### Hard
 - Trapping Rain Water
