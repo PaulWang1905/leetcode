@@ -34,6 +34,8 @@ Python code for the answers of LeetCode.
 - Power of Four
 - Minimum Depth of Binary Tree
 - Delete Duplicate Emails
+- Pascal's Triangle
+- Palindrome Linked List
 
 #### Medium
 - Majority Element II
