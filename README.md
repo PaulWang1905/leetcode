@@ -36,6 +36,7 @@ Python code for the answers of LeetCode.
 - Delete Duplicate Emails
 - Pascal's Triangle
 - Palindrome Linked List
+- Best Time to Buy and Sell Stock
 
 #### Medium
 - Majority Element II
@@ -79,6 +80,7 @@ Python code for the answers of LeetCode.
 - Longest Substring Without Repeating Characters
 - Ugly Number II
 - Summary Ranges
+- Nth Highest Salary
 
 #### Hard
 - Trapping Rain Water
