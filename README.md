@@ -37,6 +37,7 @@ Python code for the answers of LeetCode.
 - Pascal's Triangle
 - Palindrome Linked List
 - Best Time to Buy and Sell Stock
+- Remove Nth Node From End of List
 
 #### Medium
 - Majority Element II
@@ -81,6 +82,7 @@ Python code for the answers of LeetCode.
 - Ugly Number II
 - Summary Ranges
 - Nth Highest Salary
+- Reverse Linked List II
 
 #### Hard
 - Trapping Rain Water
