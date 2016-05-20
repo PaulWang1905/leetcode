@@ -39,6 +39,7 @@ Python code for the answers of LeetCode.
 - Best Time to Buy and Sell Stock
 - Remove Nth Node From End of List
 - Linked List Cycle
+- Reverse Bits
 
 #### Medium
 - Majority Element II
