@@ -38,6 +38,7 @@ Python code for the answers of LeetCode.
 - Palindrome Linked List
 - Best Time to Buy and Sell Stock
 - Remove Nth Node From End of List
+- Linked List Cycle
 
 #### Medium
 - Majority Element II
@@ -83,6 +84,7 @@ Python code for the answers of LeetCode.
 - Summary Ranges
 - Nth Highest Salary
 - Reverse Linked List II
+- Minimum Path Sum
 
 #### Hard
 - Trapping Rain Water
