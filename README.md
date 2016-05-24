@@ -40,6 +40,7 @@ Python code for the answers of LeetCode.
 - Remove Nth Node From End of List
 - Linked List Cycle
 - Reverse Bits
+- Path Sum
 
 #### Medium
 - Majority Element II
@@ -86,6 +87,7 @@ Python code for the answers of LeetCode.
 - Nth Highest Salary
 - Reverse Linked List II
 - Minimum Path Sum
+- Word Search
 
 #### Hard
 - Trapping Rain Water
