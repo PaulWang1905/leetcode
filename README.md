@@ -88,6 +88,8 @@ Python code for the answers of LeetCode.
 - Reverse Linked List II
 - Minimum Path Sum
 - Word Search
+- Single Number III
+- Insertion Sort List
 
 #### Hard
 - Trapping Rain Water
