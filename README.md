@@ -41,6 +41,7 @@ Python code for the answers of LeetCode.
 - Linked List Cycle
 - Reverse Bits
 - Path Sum
+- Compare Version Numbers
 
 #### Medium
 - Majority Element II
@@ -90,6 +91,7 @@ Python code for the answers of LeetCode.
 - Word Search
 - Single Number III
 - Insertion Sort List
+- Single Number
 
 #### Hard
 - Trapping Rain Water
