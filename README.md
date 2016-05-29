@@ -42,6 +42,8 @@ Python code for the answers of LeetCode.
 - Reverse Bits
 - Path Sum
 - Compare Version Numbers
+- House Robber
+- Remove Duplicates from Sorted List
 
 #### Medium
 - Majority Element II
@@ -93,6 +95,7 @@ Python code for the answers of LeetCode.
 - Insertion Sort List
 - Single Number
 - Search a 2D Matrix
+- Range Sum Query - Mutable
 
 #### Hard
 - Trapping Rain Water
