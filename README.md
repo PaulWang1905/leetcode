@@ -44,6 +44,7 @@ Python code for the answers of LeetCode.
 - Compare Version Numbers
 - House Robber
 - Remove Duplicates from Sorted List
+- Rising Temperature
 
 #### Medium
 - Majority Element II
@@ -96,6 +97,7 @@ Python code for the answers of LeetCode.
 - Single Number
 - Search a 2D Matrix
 - Range Sum Query - Mutable
+- Binary Tree Preorder Traversal
 
 #### Hard
 - Trapping Rain Water
