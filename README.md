@@ -45,6 +45,7 @@ Python code for the answers of LeetCode.
 - House Robber
 - Remove Duplicates from Sorted List
 - Rising Temperature
+- Word Pattern
 
 #### Medium
 - Majority Element II
