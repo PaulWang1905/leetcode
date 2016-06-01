@@ -46,6 +46,7 @@ Python code for the answers of LeetCode.
 - Remove Duplicates from Sorted List
 - Rising Temperature
 - Word Pattern
+- Valid Palindrome
 
 #### Medium
 - Majority Element II
