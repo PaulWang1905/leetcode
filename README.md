@@ -47,6 +47,7 @@ Python code for the answers of LeetCode.
 - Rising Temperature
 - Word Pattern
 - Valid Palindrome
+- Duplicate Emails
 
 #### Medium
 - Majority Element II
@@ -100,6 +101,7 @@ Python code for the answers of LeetCode.
 - Search a 2D Matrix
 - Range Sum Query - Mutable
 - Binary Tree Preorder Traversal
+- Odd Even Linked List
 
 #### Hard
 - Trapping Rain Water
