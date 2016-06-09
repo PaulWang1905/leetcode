@@ -48,6 +48,8 @@ Python code for the answers of LeetCode.
 - Word Pattern
 - Valid Palindrome
 - Duplicate Emails
+- Reverse Vowels of a String
+- Balanced Binary Tree
 
 #### Medium
 - Majority Element II
