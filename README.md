@@ -50,6 +50,7 @@ Python code for the answers of LeetCode.
 - Duplicate Emails
 - Reverse Vowels of a String
 - Balanced Binary Tree
+- Symmetric Tree
 
 #### Medium
 - Majority Element II
