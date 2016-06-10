@@ -51,6 +51,7 @@ Python code for the answers of LeetCode.
 - Reverse Vowels of a String
 - Balanced Binary Tree
 - Symmetric Tree
+- Binary Tree Level Order Traversal II
 
 #### Medium
 - Majority Element II
@@ -117,3 +118,4 @@ Python code for the answers of LeetCode.
 - Find Minimum in Rotated Sorted Array II
 - Count of Smaller Numbers After Self
 - Median of Two Sorted Arrays
+- Department Top Three Salaries
