@@ -52,6 +52,7 @@ Python code for the answers of LeetCode.
 - Balanced Binary Tree
 - Symmetric Tree
 - Binary Tree Level Order Traversal II
+- Binary Tree Paths
 
 #### Medium
 - Majority Element II
@@ -106,6 +107,7 @@ Python code for the answers of LeetCode.
 - Range Sum Query - Mutable
 - Binary Tree Preorder Traversal
 - Odd Even Linked List
+- Rank Scores
 
 #### Hard
 - Trapping Rain Water
