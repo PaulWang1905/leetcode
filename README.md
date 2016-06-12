@@ -53,6 +53,7 @@ Python code for the answers of LeetCode.
 - Symmetric Tree
 - Binary Tree Level Order Traversal II
 - Binary Tree Paths
+- Move Zeroes
 
 #### Medium
 - Majority Element II
@@ -108,6 +109,7 @@ Python code for the answers of LeetCode.
 - Binary Tree Preorder Traversal
 - Odd Even Linked List
 - Rank Scores
+- Kth Smallest Element in a BST
 
 #### Hard
 - Trapping Rain Water
