@@ -112,6 +112,8 @@ Python code for the answers of LeetCode.
 - Rank Scores
 - Kth Smallest Element in a BST
 - Binary Tree Inorder Traversal
+- Rotate Image
+- Word Break
 
 #### Hard
 - Trapping Rain Water
