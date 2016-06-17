@@ -55,6 +55,8 @@ Python code for the answers of LeetCode.
 - Binary Tree Paths
 - Move Zeroes
 - Invert Binary Tree
+- Power of Three
+- Reverse Integer
 
 #### Medium
 - Majority Element II
