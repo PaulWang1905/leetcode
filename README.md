@@ -57,6 +57,7 @@ Python code for the answers of LeetCode.
 - Invert Binary Tree
 - Power of Three
 - Reverse Integer
+- Intersection of Two Arrays
 
 #### Medium
 - Majority Element II
@@ -116,6 +117,7 @@ Python code for the answers of LeetCode.
 - Binary Tree Inorder Traversal
 - Rotate Image
 - Word Break
+- Binary Tree Right Side View
 
 #### Hard
 - Trapping Rain Water
