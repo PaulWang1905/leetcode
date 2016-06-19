@@ -58,6 +58,7 @@ Python code for the answers of LeetCode.
 - Power of Three
 - Reverse Integer
 - Intersection of Two Arrays
+- Remove Element
 
 #### Medium
 - Majority Element II
@@ -118,6 +119,7 @@ Python code for the answers of LeetCode.
 - Rotate Image
 - Word Break
 - Binary Tree Right Side View
+- Single Number II
 
 #### Hard
 - Trapping Rain Water
