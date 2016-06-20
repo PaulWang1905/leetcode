@@ -120,6 +120,7 @@ Python code for the answers of LeetCode.
 - Word Break
 - Binary Tree Right Side View
 - Single Number II
+- Binary Tree Zigzag Level Order Traversal
 
 #### Hard
 - Trapping Rain Water
