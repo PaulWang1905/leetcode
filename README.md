@@ -59,6 +59,8 @@ Python code for the answers of LeetCode.
 - Reverse Integer
 - Intersection of Two Arrays
 - Remove Element
+- Swap Nodes in Pairs
+- Plus One
 
 #### Medium
 - Majority Element II
@@ -121,6 +123,7 @@ Python code for the answers of LeetCode.
 - Binary Tree Right Side View
 - Single Number II
 - Binary Tree Zigzag Level Order Traversal
+- Find Minimum in Rotated Sorted Array
 
 #### Hard
 - Trapping Rain Water
