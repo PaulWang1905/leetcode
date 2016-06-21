@@ -61,6 +61,7 @@ Python code for the answers of LeetCode.
 - Remove Element
 - Swap Nodes in Pairs
 - Plus One
+- Palindrome Number
 
 #### Medium
 - Majority Element II
@@ -124,6 +125,7 @@ Python code for the answers of LeetCode.
 - Single Number II
 - Binary Tree Zigzag Level Order Traversal
 - Find Minimum in Rotated Sorted Array
+- Populating Next Right Pointers in Each Node
 
 #### Hard
 - Trapping Rain Water
