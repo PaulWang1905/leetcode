@@ -62,6 +62,7 @@ Python code for the answers of LeetCode.
 - Swap Nodes in Pairs
 - Plus One
 - Palindrome Number
+- Second Highest Salary
 
 #### Medium
 - Majority Element II
@@ -126,6 +127,7 @@ Python code for the answers of LeetCode.
 - Binary Tree Zigzag Level Order Traversal
 - Find Minimum in Rotated Sorted Array
 - Populating Next Right Pointers in Each Node
+- Top K Frequent Elements
 
 #### Hard
 - Trapping Rain Water
