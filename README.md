@@ -63,6 +63,7 @@ Python code for the answers of LeetCode.
 - Plus One
 - Palindrome Number
 - Second Highest Salary
+- Employees Earning More Than Their Managers
 
 #### Medium
 - Majority Element II
@@ -128,6 +129,7 @@ Python code for the answers of LeetCode.
 - Find Minimum in Rotated Sorted Array
 - Populating Next Right Pointers in Each Node
 - Top K Frequent Elements
+- Rotate List
 
 #### Hard
 - Trapping Rain Water
