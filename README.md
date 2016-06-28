@@ -130,6 +130,7 @@ Python code for the answers of LeetCode.
 - Populating Next Right Pointers in Each Node
 - Top K Frequent Elements
 - Rotate List
+- Multiply Strings
 
 #### Hard
 - Trapping Rain Water
