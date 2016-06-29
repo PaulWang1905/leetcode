@@ -64,6 +64,7 @@ Python code for the answers of LeetCode.
 - Palindrome Number
 - Second Highest Salary
 - Employees Earning More Than Their Managers
+- Same Tree
 
 #### Medium
 - Majority Element II
@@ -131,6 +132,7 @@ Python code for the answers of LeetCode.
 - Top K Frequent Elements
 - Rotate List
 - Multiply Strings
+- Integer Break
 
 #### Hard
 - Trapping Rain Water
