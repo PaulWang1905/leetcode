@@ -65,6 +65,8 @@ Python code for the answers of LeetCode.
 - Second Highest Salary
 - Employees Earning More Than Their Managers
 - Same Tree
+- Count Primes
+- Binary Tree Level Order Traversal
 
 #### Medium
 - Majority Element II
