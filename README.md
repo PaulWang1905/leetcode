@@ -67,6 +67,7 @@ Python code for the answers of LeetCode.
 - Same Tree
 - Count Primes
 - Binary Tree Level Order Traversal
+- Valid Anagram
 
 #### Medium
 - Majority Element II
@@ -148,3 +149,4 @@ Python code for the answers of LeetCode.
 - Count of Smaller Numbers After Self
 - Median of Two Sorted Arrays
 - Department Top Three Salaries
+- Populating Next Right Pointers in Each Node II
