@@ -136,6 +136,8 @@ Python code for the answers of LeetCode.
 - Rotate List
 - Multiply Strings
 - Integer Break
+- Kth Largest Element in an Array
+- Sqrt(x)
 
 #### Hard
 - Trapping Rain Water
