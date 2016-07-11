@@ -68,6 +68,7 @@ Python code for the answers of LeetCode.
 - Count Primes
 - Binary Tree Level Order Traversal
 - Valid Anagram
+- Intersection of Two Arrays II
 
 #### Medium
 - Majority Element II
@@ -138,6 +139,7 @@ Python code for the answers of LeetCode.
 - Integer Break
 - Kth Largest Element in an Array
 - Sqrt(x)
+- Sum Root to Leaf Numbers
 
 #### Hard
 - Trapping Rain Water
