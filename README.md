@@ -140,6 +140,8 @@ Python code for the answers of LeetCode.
 - Kth Largest Element in an Array
 - Sqrt(x)
 - Sum Root to Leaf Numbers
+- Product of Array Except Self
+- Path Sum II
 
 #### Hard
 - Trapping Rain Water
