@@ -69,6 +69,7 @@ Python code for the answers of LeetCode.
 - Binary Tree Level Order Traversal
 - Valid Anagram
 - Intersection of Two Arrays II
+- Number of 1 Bits
 
 #### Medium
 - Majority Element II
@@ -156,3 +157,4 @@ Python code for the answers of LeetCode.
 - Median of Two Sorted Arrays
 - Department Top Three Salaries
 - Populating Next Right Pointers in Each Node II
+- Binary Tree Postorder Traversal
