@@ -143,6 +143,8 @@ Python code for the answers of LeetCode.
 - Sum Root to Leaf Numbers
 - Product of Array Except Self
 - Path Sum II
+- Set Matrix Zeroes
+- Validate Binary Search Tree
 
 #### Hard
 - Trapping Rain Water
