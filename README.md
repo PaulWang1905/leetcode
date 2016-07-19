@@ -145,6 +145,8 @@ Python code for the answers of LeetCode.
 - Path Sum II
 - Set Matrix Zeroes
 - Validate Binary Search Tree
+- Search a 2D Matrix II
+- Count Complete Tree Nodes
 
 #### Hard
 - Trapping Rain Water
