@@ -147,6 +147,7 @@ Python code for the answers of LeetCode.
 - Validate Binary Search Tree
 - Search a 2D Matrix II
 - Count Complete Tree Nodes
+- Longest Increasing Subsequence
 
 #### Hard
 - Trapping Rain Water
