@@ -70,6 +70,7 @@ Python code for the answers of LeetCode.
 - Valid Anagram
 - Intersection of Two Arrays II
 - Number of 1 Bits
+- Implement strStr()
 
 #### Medium
 - Majority Element II
