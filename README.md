@@ -71,6 +71,7 @@ Python code for the answers of LeetCode.
 - Intersection of Two Arrays II
 - Number of 1 Bits
 - Implement strStr()
+- Valid Parentheses
 
 #### Medium
 - Majority Element II
