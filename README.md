@@ -150,6 +150,7 @@ Python code for the answers of LeetCode.
 - Search a 2D Matrix II
 - Count Complete Tree Nodes
 - Longest Increasing Subsequence
+- Reorder List
 
 #### Hard
 - Trapping Rain Water
