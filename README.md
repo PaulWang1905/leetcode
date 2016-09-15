@@ -72,6 +72,7 @@ Python code for the answers of LeetCode.
 - Number of 1 Bits
 - Implement strStr()
 - Valid Parentheses
+- Rotate Array
 
 #### Medium
 - Majority Element II
