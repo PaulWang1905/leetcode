@@ -73,6 +73,7 @@ Python code for the answers of LeetCode.
 - Implement strStr()
 - Valid Parentheses
 - Rotate Array
+- First Unique Character in a String
 
 #### Medium
 - Majority Element II
