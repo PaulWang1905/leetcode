@@ -74,6 +74,8 @@ Python code for the answers of LeetCode.
 - Valid Parentheses
 - Rotate Array
 - First Unique Character in a String
+- Find the Difference
+- Sum of Left Leaves
 
 #### Medium
 - Majority Element II
