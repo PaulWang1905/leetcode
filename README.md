@@ -76,6 +76,7 @@ Python code for the answers of LeetCode.
 - First Unique Character in a String
 - Find the Difference
 - Sum of Left Leaves
+- Isomorphic Strings
 
 #### Medium
 - Majority Element II
