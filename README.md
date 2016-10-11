@@ -156,6 +156,7 @@ Python code for the answers of LeetCode.
 - Count Complete Tree Nodes
 - Longest Increasing Subsequence
 - Reorder List
+- Is Subsequence
 
 #### Hard
 - Trapping Rain Water
