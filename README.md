@@ -77,6 +77,7 @@ Python code for the answers of LeetCode.
 - Find the Difference
 - Sum of Left Leaves
 - Isomorphic Strings
+- Ransom Note
 
 #### Medium
 - Majority Element II
