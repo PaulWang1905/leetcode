@@ -158,6 +158,7 @@ Python code for the answers of LeetCode.
 - Longest Increasing Subsequence
 - Reorder List
 - Is Subsequence
+- Kth Smallest Element in a Sorted Matrix
 
 #### Hard
 - Trapping Rain Water
