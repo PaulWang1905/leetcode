@@ -78,6 +78,7 @@ Python code for the answers of LeetCode.
 - Sum of Left Leaves
 - Isomorphic Strings
 - Ransom Note
+- Third Maximum Number
 
 #### Medium
 - Majority Element II
