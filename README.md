@@ -80,6 +80,7 @@ Python code for the answers of LeetCode.
 - Ransom Note
 - Third Maximum Number
 - Number of Segments in a String
+- Hamming Distance
 
 #### Medium
 - Majority Element II
