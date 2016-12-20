@@ -79,6 +79,7 @@ Python code for the answers of LeetCode.
 - Isomorphic Strings
 - Ransom Note
 - Third Maximum Number
+- Number of Segments in a String
 
 #### Medium
 - Majority Element II
