@@ -81,6 +81,7 @@ Python code for the answers of LeetCode.
 - Third Maximum Number
 - Number of Segments in a String
 - Hamming Distance
+- Find All Numbers Disappeared in an Array
 
 #### Medium
 - Majority Element II
