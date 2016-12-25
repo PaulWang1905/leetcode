@@ -163,6 +163,8 @@ Python code for the answers of LeetCode.
 - Reorder List
 - Is Subsequence
 - Kth Smallest Element in a Sorted Matrix
+- Sort Characters By Frequency
+- Minimum Moves to Equal Array Elements II
 
 #### Hard
 - Trapping Rain Water
