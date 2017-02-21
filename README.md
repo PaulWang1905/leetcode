@@ -82,6 +82,7 @@ Python code for the answers of LeetCode.
 - Number of Segments in a String
 - Hamming Distance
 - Find All Numbers Disappeared in an Array
+- Assign Cookies
 
 #### Medium
 - Majority Element II
@@ -165,6 +166,7 @@ Python code for the answers of LeetCode.
 - Kth Smallest Element in a Sorted Matrix
 - Sort Characters By Frequency
 - Minimum Moves to Equal Array Elements II
+- Find All Duplicates in an Array
 
 #### Hard
 - Trapping Rain Water
