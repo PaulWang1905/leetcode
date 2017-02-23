@@ -83,6 +83,7 @@ Python code for the answers of LeetCode.
 - Hamming Distance
 - Find All Numbers Disappeared in an Array
 - Assign Cookies
+- Number Complement
 
 #### Medium
 - Majority Element II
