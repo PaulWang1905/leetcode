@@ -84,6 +84,7 @@ Python code for the answers of LeetCode.
 - Find All Numbers Disappeared in an Array
 - Assign Cookies
 - Number Complement
+- Valid Perfect Square
 
 #### Medium
 - Majority Element II
