@@ -85,6 +85,7 @@ Python code for the answers of LeetCode.
 - Assign Cookies
 - Number Complement
 - Valid Perfect Square
+- Max Consecutive Ones
 
 #### Medium
 - Majority Element II
