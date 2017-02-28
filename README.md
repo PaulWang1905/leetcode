@@ -86,6 +86,8 @@ Python code for the answers of LeetCode.
 - Number Complement
 - Valid Perfect Square
 - Max Consecutive Ones
+- Detect Capital
+- Keyboard Row
 
 #### Medium
 - Majority Element II
