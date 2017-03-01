@@ -88,6 +88,7 @@ Python code for the answers of LeetCode.
 - Max Consecutive Ones
 - Detect Capital
 - Keyboard Row
+- Sum of Two Integers
 
 #### Medium
 - Majority Element II
