@@ -89,6 +89,7 @@ Python code for the answers of LeetCode.
 - Detect Capital
 - Keyboard Row
 - Sum of Two Integers
+- Guess Number Higher or Lower
 
 #### Medium
 - Majority Element II
@@ -173,6 +174,7 @@ Python code for the answers of LeetCode.
 - Sort Characters By Frequency
 - Minimum Moves to Equal Array Elements II
 - Find All Duplicates in an Array
+- Counting Bits
 
 #### Hard
 - Trapping Rain Water
