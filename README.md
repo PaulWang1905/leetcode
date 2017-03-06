@@ -175,6 +175,7 @@ Python code for the answers of LeetCode.
 - Minimum Moves to Equal Array Elements II
 - Find All Duplicates in an Array
 - Counting Bits
+- Partition Equal Subset Sum
 
 #### Hard
 - Trapping Rain Water
