@@ -177,6 +177,7 @@ Python code for the answers of LeetCode.
 - Counting Bits
 - Partition Equal Subset Sum
 - House Robber II
+- House Robber III
 
 #### Hard
 - Trapping Rain Water
