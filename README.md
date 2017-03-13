@@ -176,6 +176,7 @@ Python code for the answers of LeetCode.
 - Find All Duplicates in an Array
 - Counting Bits
 - Partition Equal Subset Sum
+- House Robber II
 
 #### Hard
 - Trapping Rain Water
