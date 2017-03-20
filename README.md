@@ -180,6 +180,7 @@ Python code for the answers of LeetCode.
 - House Robber II
 - House Robber III
 - Permutations II
+- Single Element in a Sorted Array
 
 #### Hard
 - Trapping Rain Water
