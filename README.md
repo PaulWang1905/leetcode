@@ -90,6 +90,7 @@ Python code for the answers of LeetCode.
 - Keyboard Row
 - Sum of Two Integers
 - Guess Number Higher or Lower
+- Reverse String II
 
 #### Medium
 - Majority Element II
@@ -178,6 +179,7 @@ Python code for the answers of LeetCode.
 - Partition Equal Subset Sum
 - House Robber II
 - House Robber III
+- Permutations II
 
 #### Hard
 - Trapping Rain Water
