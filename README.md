@@ -91,6 +91,7 @@ Python code for the answers of LeetCode.
 - Sum of Two Integers
 - Guess Number Higher or Lower
 - Reverse String II
+- Nim Game
 
 #### Medium
 - Majority Element II
