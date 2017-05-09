@@ -92,6 +92,7 @@ Python code for the answers of LeetCode.
 - Guess Number Higher or Lower
 - Reverse String II
 - Nim Game
+- K-diff Pairs in an Array
 
 #### Medium
 - Majority Element II
