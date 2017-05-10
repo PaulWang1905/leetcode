@@ -93,6 +93,7 @@ Python code for the answers of LeetCode.
 - Reverse String II
 - Nim Game
 - K-diff Pairs in an Array
+- Maximum Subarray
 
 #### Medium
 - Majority Element II
